@@ -36,6 +36,8 @@ public class MobilDriver_2511533009 {
         tambahMobil(mobil1);
         tambahMobil(mobil2);
         hapusMobil(1);
+        
+        System.out.println(mobil2.getNama());
 	}
 
 }
