@@ -54,7 +54,7 @@ public class QueueArray_2511533009 {
         //kunjungi dari belakang dan cetak
         for(i_3009 = front_3009; i_3009 < rear_3009; i_3009++){
             System.out.printf(" %d <-- ", array_3009[i_3009]);
-        }
+        }		
         return;
     }
 }
